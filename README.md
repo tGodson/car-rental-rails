@@ -8,8 +8,6 @@ The project serves as my final capstone project at Microverse. The repo for the 
 [API Home]()
 [ Client App]()
 
-## Video Presentation
-[YouTube Link]()
 ## Built With
 
 - Ruby v2.7.2
