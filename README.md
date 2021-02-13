@@ -5,11 +5,9 @@ In this project, I built a fullstack application where users can access cars and
 The project serves as my final capstone project at Microverse. The repo for the client app can be accessed [here](https://github.com/tGodson/car-rental-react)
 
 ## Live Link
-[API Home]()
-[ Client App]()
+[API Home](https://car-rental-rails.herokuapp.com/)
+[ Client App](https://car-rentals-react.herokuapp.com/)
 
-## Video Presentation
-[YouTube Link]()
 ## Built With
 
 - Ruby v2.7.2
